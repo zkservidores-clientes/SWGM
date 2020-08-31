@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"JoinSteam"
+	{
+		"en"		"{default}[{darkred}SWGM{default}] {green}First join our Steam Group!"
+		"pt"		"{default}[{darkred}SWGM{default}] {green}Primeiro entre em nosso Grupo Steam!"
+		"ru"		"{default}[{darkred}SWGM{default}] {green}Сначала вступите в нашу Steam группу!"
+		"fr"		"{default}[{darkred}SWGM{default}] {green}En premier, rejoignez notre Groupe Steam!"
+		"hu"		"{default}[{darkred}SWGM{default}] {green}Először csatlakozz a Steam-es csoportunkhoz!"
+	}
+}
